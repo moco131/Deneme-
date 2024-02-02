@@ -4,3 +4,4 @@ kiwi
 name it
 cereal
 potatoes
+Salladım bişeyler
